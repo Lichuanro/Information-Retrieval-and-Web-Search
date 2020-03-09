@@ -1,0 +1,7 @@
+name: cs276-pa1
+channels:
+  - defaults
+dependencies:
+  - jupyter=1.0.0
+  - python=3.7.3
+  - psutil=5.6.1
