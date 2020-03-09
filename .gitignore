@@ -6,4 +6,6 @@
 *output*
 *autograding*
 *checkpoints*
-*pychache*
+*pycache*
+*.pyc
+.DS_Store
